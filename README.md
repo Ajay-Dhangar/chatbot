@@ -1,11 +1,27 @@
 # JavaScript Chatbot 
 
-This is a very simple "chatbot" using nothing but JavaScript, HTML, & CSS. I put this in quotes because chatbots these days are way more complex - this is an exercise in vanilla JS loops and conditionals, not AI.
+This is a simple chatbot that uses JavaScript to interact with the user. The chatbot will ask the user for their message and then greet them. The chatbot will then ask the user for their age and respond with a message based on the user's age.
 
-I hope it makes a good intro for anyone interested in chatbots and frontend fundamentals.
+## Technologies Used
 
-Enjoy!
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- jQuery
+- Google Fonts
+- Font Awesome
+- Git
+- GitHub
+- Visual Studio Code
+- Command Line
+- Markdown
 
-[Demo](https://sylviapap.github.io/chatbot/)
+## Features
 
-[Blog post](https://dev.to/sylviapap/make-a-simple-chatbot-with-javascript-1gc)
+- User can input their message
+- User can receive a greeting message
+
+## Preview
+
+[![alt text](image.png)](https://ajay-dhangar.github.io/chatbot/)
